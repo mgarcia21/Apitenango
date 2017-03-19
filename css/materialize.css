@@ -6,6 +6,7 @@
 .materialize-red {
   background-color: #e51c23 !important;
 }
+.font-family { "Fipps-Regular"; src: url("Fipps-Regular.odf")}
 
 .materialize-red-text {
   color: #e51c23 !important;
